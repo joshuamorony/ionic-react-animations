@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-animations",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
