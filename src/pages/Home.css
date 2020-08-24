@@ -1,0 +1,16 @@
+.animation-container {
+    display: flex;
+    justify-content: center;
+}
+
+.animation-section {
+    width: 100%;
+    padding: 10px;
+}
+
+.square {
+    margin-top: 20px;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(37, 64, 139);
+}
